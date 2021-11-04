@@ -12,4 +12,4 @@ Prédire les 4 prix demandées, avec des visualisations explicatives pour le cho
 
 Solution :
 
-bientot dispo
+https://colab.research.google.com/drive/1KH4IH40yOCxpB3Y_ugP2duyQtunkY4Ah?usp=sharing
